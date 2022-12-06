@@ -11,7 +11,7 @@ I graduated from the University of Technology in Rzeszow with Master of Engineer
 
 ## Stats
 
-![Magda98 GitHub stats](https://github-readme-stats.vercel.app/api?username=magda98&count_private=true)
+![Magda98 GitHub stats](https://github-readme-stats.vercel.app/api?username=magda98&count_private=true&theme=material-palenight)
 
 <!--
 **Magda98/Magda98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
