@@ -1,5 +1,5 @@
-# Hello! I am...
-### Magdalena Kochman
+### Hello! I am...
+# Magdalena Kochman
 
 - 💻 Frontend developer at Comarch
 - 🌱 I’m currently mastering Angular
