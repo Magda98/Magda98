@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hello! I am...
+### Magdalena Kochman
+
+- 💻 Frontend developer at Comarch
+- 🌱 I’m currently mastering Angular
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/magdalena-kochman/)
+- 🐔 Fun fact: I like hens 🐓
+
+## Biography
+I graduated from the University of Technology in Rzeszow with Master of Engineering in computer science. I was active in the Student Science Club KOD and Student Government. I am eager to learn new technologies. I try to constantly develop frontend skills by doing courses, following the news and reading articles. I am also interested in machine learning/deep learning. I like long walks, I am also passionate about winter sports - I love skiing.
 
 <!--
 **Magda98/Magda98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
