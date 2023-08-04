@@ -3,7 +3,7 @@
 
 - 💻 Frontend developer at Comarch
 - 🌱 I’m currently mastering Angular
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/magdalena-bober)
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/magdalena-bober)
 - ⚡ Fun fact: I like hens 🐓
 
 ## Biography
