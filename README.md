@@ -1,9 +1,9 @@
 ### Hello! I am...
-# Magdalena Kochman
+# Magdalena Bober (Kochman)
 
 - 💻 Frontend developer at Comarch
 - 🌱 I’m currently mastering Angular
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/magdalena-kochman/)
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/magdalena-bober)
 - ⚡ Fun fact: I like hens 🐓
 
 ## Biography
