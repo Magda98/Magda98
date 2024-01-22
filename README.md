@@ -7,7 +7,12 @@
 - ⚡ Fun fact: I like hens 🐓
 
 ## Biography
-I graduated from the University of Technology in Rzeszow with Master of Engineering in computer science. I was active in the Student Science Club KOD and Student Government. I am eager to learn new technologies. I try to constantly develop frontend skills by doing courses, following the news and reading articles. I am also interested in machine learning/deep learning. I like long walks, I am also passionate about winter sports - I love skiing.
+I graduated from the University of Technology in Rzeszow with Master of
+Engineering in computer science. I was active member in the Student Science
+Club KOD and Student Government. I constantly develop frontend skills by doing
+courses, following the news, reading articles and creating personal projects. I am also passionate about Angular -
+I attended the recent NgPoland conference. I also follow Angular news and RFC's on
+GitHub and read news about Angular.
 
 ## Languages and Tools  
 <div align="left">
