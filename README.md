@@ -3,29 +3,30 @@
 
 - 💻 Frontend developer 
 - 🌱 I’m currently mastering Angular
+- 🔭 I’m currently learning TensorFlow
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/magdalena-bober)
 - ⚡ Fun fact: I like hens 🐓
 
 ## Biography
-I graduated from the University of Technology in Rzeszow with Master of
-Engineering in computer science. I was active member in the Student Science
-Club KOD and Student Government. I constantly develop frontend skills by doing
-courses, following the news, reading articles and creating personal projects. I am also passionate about Angular -
-I attended the recent NgPoland conference. I also follow Angular news and RFC's on
-GitHub and read news about Angular.
+I graduated from the University of Technology in Rzeszow with a Master of Engineering in Computer Science. During my studies, I was an active member of the Student Science Club KOD and the Student Government. I developed and maintained a new version of the Science Club's website using the **Vue framework** and also created a new version of the Student Government's website. Additionally, I worked on several other projects using **Vue** throughout my academic career.
+
+Currently I work as an **Angular Developer**, continuously honing my frontend skills through courses, staying updated with the latest news, reading articles, and creating personal projects. My passion for Angular led me to attend the recent NgPoland conference. Additionally, I keep abreast of Angular developments by following news, RFCs on GitHub, and other relevant updates.
+
+I am also deeply passionate about artificial intelligence, particularly in the realms of **machine learning and deep learning**. For my master's thesis and a recent hackathon, I developed **convolutional neural network** (CNN) models using **PyTorch**. I stay current in this ever-evolving field by regularly reading news and articles about AI.
 
 ## Languages and Tools  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo" />
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" height="40" width="52" alt="angular logo"  />
+  <img src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png" height="40" width="128" alt="angular logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
-  <img src="https://user-images.githubusercontent.com/33430525/213930029-1b19beb8-1bb1-4634-8717-7e81f6becf62.png"  height="40" width="40" alt="nestJS logo" style="object-fit:contain;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://pytorch.org/assets/images/logo-icon.svg" height="40" width="52" alt="pytorch logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png" height="40" width="40" alt="tensorflow logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="52" alt="numpy logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="52" alt="jupyter logo"  />
 </div>
