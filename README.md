@@ -3,7 +3,7 @@
 
 - 💻 Frontend developer 
 - 🌱 I’m currently mastering Angular
-- 🔭 I’m currently learning TensorFlow
+- 📖 learning TensorFlow
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/magdalena-bober)
 - ⚡ Fun fact: I like hens 🐓
 
