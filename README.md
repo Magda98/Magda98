@@ -4,12 +4,12 @@
 - 💻 Frontend developer 
 - 🌱 I’m currently mastering Angular
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/magdalena-bober)
-- ⚡ Fun fact: I like hens 🐓
+- ⚡ Fun fact: I like hens 🐥
 
 ## Biography
 I graduated from the University of Technology in Rzeszow with a Master of Engineering in Computer Science. During my studies, I was an active member of the Student Science Club KOD and the Student Government. I developed and maintained a new version of the Science Club's website using the **Vue framework** and also created a new version of the Student Government's website. Additionally, I worked on several other projects using **Vue** throughout my academic career.
 
-Currently I work as an **Angular Developer**, continuously honing my frontend skills through courses, staying updated with the latest news, reading articles, and creating personal projects. My interest in Angular led me to attend the NgPoland conference this year, as well as last year. Additionally, I keep abreast of Angular developments by following news, RFCs on GitHub, and other relevant updates.
+Currently I work as an **Angular Developer**, continuously honing my frontend skills through courses, staying updated with the latest news, reading articles, and creating personal projects.I’m a bit of an NgPoland veteran—I’ve been going for years to keep up with everything happening in the Angular world. Additionally, I keep abreast of Angular developments by following news, RFCs on GitHub, and other relevant updates.
 
 ## Languages and Tools  
 <div align="left">
